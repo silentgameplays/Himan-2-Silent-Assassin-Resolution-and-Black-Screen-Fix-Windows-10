@@ -14,7 +14,7 @@ ScriptDll SDL_Engine.dll
 
 ScriptIfDll ScriptInterfaces.dll
 
-DrawDll RenderOpenGL.dll
+DrawDll RenderD3D.dll
 
 LocaleFile=Locale\English.xml
 
