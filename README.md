@@ -2,7 +2,7 @@
 
 1.Go To Hitman 2:Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
 
-2.Download and paste the d3d8.dll
+2.Download and paste the d3d8.dll into the Hitman 2:Silent Assassin directory
 
 3.Find the Hitman2.ini file
 
