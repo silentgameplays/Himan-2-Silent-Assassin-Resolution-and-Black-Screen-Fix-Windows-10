@@ -17,7 +17,6 @@ NVIDIA>Control Panel>Change Resolution to 60Hz
 * DrawDll RenderOpenGL.dll
 
 * Resolution 1920x1080
-* DisableHWTnL 0
 * Window 1
 
 6.For Windows 10 (1809) and other versions where you experience black models of main character with OpenGL
@@ -32,7 +31,6 @@ b.Use the following settings in Hitman2.ini file:
 * DrawDll RenderD3D.dll
 
 * Resolution 1920x1080
-* DisableHWTnL 0
 * Window 1
 
 
