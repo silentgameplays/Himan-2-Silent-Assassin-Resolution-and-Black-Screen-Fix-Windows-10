@@ -1,15 +1,17 @@
 # Himan-2-Black-Screen-and-Resolution-Fix
 
-1.Go To Hitman 2 Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
+1.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
 
-2.Download and paste the d3d8.dll into the Hitman 2 Silent Assassin directory
+2.Go To Hitman 2 Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
 
-3.Find the Hitman2.ini file
+3.Download and paste the d3d8.dll into the Hitman 2 Silent Assassin directory
 
-4.For a glitchless free experience limit your overall refresh rate for older games:
+4.Find the Hitman2.ini file
+
+5.(Optional)For a glitchless free experience limit your overall refresh rate for older games:
 NVIDIA>Control Panel>Change Resolution to 60Hz
 
-5.Use the following settings:
+6.Use the following settings:
 
 DefaultScene=AllLevels/Logos.gms
 
