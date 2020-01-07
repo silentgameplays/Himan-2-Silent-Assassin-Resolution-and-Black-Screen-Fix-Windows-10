@@ -6,7 +6,10 @@
 
 3.Find the Hitman2.ini file
 
-4.Use the following settings:
+4.For a glitchless free experience limit your overall refresh rate for older games:
+NVIDIA>Control Panel>Change Resolution to 60Hz
+
+5.Use the following settings:
 
 DefaultScene=AllLevels/Logos.gms
 
