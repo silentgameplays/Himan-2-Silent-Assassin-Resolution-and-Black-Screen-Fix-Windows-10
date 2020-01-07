@@ -1,0 +1,1 @@
+# Himan-2-Black-Screen-and-Resolution-Fix
