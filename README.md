@@ -1,10 +1,12 @@
 # Himan-2-Black-Screen-and-Resolution-Fix
 
-1.Go To Hitman 2:Silent Assassin Directory
+1.Go To Hitman 2:Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
 
-2.Find the Hitman2.ini file
+2.Download and paste the d3d8.dll
 
-3.Use the following settings:
+3.Find the Hitman2.ini file
+
+4.Use the following settings:
 
 DefaultScene=AllLevels/Logos.gms
 
