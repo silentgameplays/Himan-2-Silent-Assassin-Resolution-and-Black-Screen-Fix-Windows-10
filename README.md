@@ -2,7 +2,7 @@
 
 1.Go To Hitman 2:Silent Assassin Directory
 
-2.Find the Hitman.ini file
+2.Find the Hitman2.ini file
 
 3.Use the following settings:
 
