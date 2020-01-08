@@ -6,24 +6,10 @@
 
 3.Find the Hitman2.ini file
 
-4.(Optional)For a glitchless free experience limit your overall refresh rate for older games:
-NVIDIA>Control Panel>Change Resolution to 60Hz
+4.For Windows 10 (1809) and other versions where you experience black models of main character with OpenGL
+Download and paste the d3d8.dll into the Hitman 2 Silent Assassin directory.
 
-5.For Windows 10 (1909) Use the following settings in Hitman2.ini file:
-
-* SoundDll SoundEngine.dll
-* ScriptDll SDL_Engine.dll
-* ScriptIfDll ScriptInterfaces.dll
-* DrawDll RenderOpenGL.dll
-
-* Resolution 1920x1080
-* Window 1
-
-6.For Windows 10 (1809) and other versions where you experience black models of main character with OpenGL
-
-a.Download and paste the d3d8.dll into the Hitman 2 Silent Assassin directory.
-
-b.Use the following settings in Hitman2.ini file:
+Use the following settings in Hitman2.ini file:
 
 * SoundDll SoundEngine.dll
 * ScriptDll SDL_Engine.dll
