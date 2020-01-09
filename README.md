@@ -10,7 +10,7 @@
 
 5.On Windows 10(1909) after pasting Right Click on the d3d8.dll file and click on General tick the Unblock box
 
-5.Download and paste Hitman2.ini file into the Hitman 2 Silent Assassin directory.
+5.Download and paste Hitman2.ini file into the Hitman 2 Silent Assassin directory replacing the original.
 
 6.(Optional) Input the values provided below into the Hitman2.ini manually
 * DefaultScene=AllLevels/Logos.gms
