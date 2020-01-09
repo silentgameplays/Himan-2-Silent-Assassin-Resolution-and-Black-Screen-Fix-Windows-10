@@ -8,9 +8,9 @@
 
 4.Download and paste the d3d8.dll into the Hitman 2 Silent Assassin directory.
 
-Use the following settings in Hitman2.ini file(also in this repository,so you can just copy/paste):
+5.Download and paste Hitman2.ini file into the Hitman 2 Silent Assassin directory.
 
-
+6.(Optional) Input the values provided below into the Hitman2.ini manually
 * DefaultScene=AllLevels/Logos.gms
 
 * SoundDll SoundEngine.dll
