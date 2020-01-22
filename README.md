@@ -2,7 +2,7 @@
 
 0.For Steam versions only:
 
-Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it into your Hitman:Contracts directory 
+Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it into your Hitman 2 Silent Assassin  directory 
 
 1.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
 
