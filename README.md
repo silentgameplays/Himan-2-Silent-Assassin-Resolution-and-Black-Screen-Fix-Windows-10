@@ -1,5 +1,9 @@
 # Himan-2-Black-Screen-and-Resolution-Fix
 
+0.For Steam versions only:
+
+Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it into your Hitman:Contracts directory 
+
 1.Go to Control Panel>Programs>Programs and Features>Turn Windows Features on or off>Legacy Components>Enable Direct Play
 
 2.Go To Hitman 2 Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
