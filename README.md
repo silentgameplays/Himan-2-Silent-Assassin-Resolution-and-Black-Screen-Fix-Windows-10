@@ -8,13 +8,9 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 
 2.Go To Hitman 2 Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
 
-3.Find the Hitman2.ini file
+3.Download,extract and paste the Hitman.ini, d3d8.dll and wined3d.dll into the Hitman 2 Silent Assassin directory.
 
-4.Download,extract and paste the Hitman.ini, d3d8.dll and wined3d.dll into the Hitman 2 Silent Assassin directory.
-
-5.On Windows 10(1909) after pasting Right Click on the d3d8.dll file and click on General tick the Unblock box
-
-6.(Optional) Input the values provided below into the Hitman2.ini manually
+4.(Optional) Input the values provided below into the Hitman2.ini manually
 * DefaultScene=AllLevels/Logos.gms
 
 * SoundDll SoundEngine.dll
