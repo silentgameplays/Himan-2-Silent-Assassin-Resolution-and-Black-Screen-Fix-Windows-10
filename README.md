@@ -8,7 +8,7 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 
 2.Go To Hitman 2 Silent Assassin Directory C:\Program Files (x86)\Steam\steamapps\common\Hitman 2 Silent Assassin
 
-3.Download,extract and paste the Hitman.ini, d3d8.dll and wined3d.dll into the Hitman 2 Silent Assassin directory.
+3.Download,extract and paste the Hitman2.ini, d3d8.dll and wined3d.dll into the Hitman 2 Silent Assassin directory.
 
 4.(Optional) Input the values provided below into the Hitman2.ini manually
 * DefaultScene=AllLevels/Logos.gms
