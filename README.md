@@ -45,7 +45,7 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 * UseEax 1
 * Window 1
 
-5)#Optional Line for Multiple monitor setup
+5.#Optional Line for Multiple monitor setup
 * StartUpperPos 0,0
 
 
