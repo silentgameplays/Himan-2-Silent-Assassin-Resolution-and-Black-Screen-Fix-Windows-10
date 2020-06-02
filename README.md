@@ -51,7 +51,7 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 # NB! If you are experiencing issues such as something glitching after installing this fix on top of other configurations and mods you need to do the following:
 
 1. Uninstall game
-2. Delete Hitman 2 Silent Assassindirectory from C:\Program Files (x86)\Steam\steamapps\common\
+2. Delete Hitman 2 Silent Assassin directory from C:\Program Files (x86)\Steam\steamapps\common\
 3. Install the game again 
 4. Apply the fix again
 
