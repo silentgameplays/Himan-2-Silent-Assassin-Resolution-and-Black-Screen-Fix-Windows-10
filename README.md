@@ -55,5 +55,6 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 3. Install the game again 
 4. Apply the fix again
 
+# Credit goes to gimalaji_blake
 
 
