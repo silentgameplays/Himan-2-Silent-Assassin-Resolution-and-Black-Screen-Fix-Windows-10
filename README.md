@@ -57,6 +57,7 @@ Go into C:\Program Files (x86)\Steam find a file Steam.dll and Copy/Paste it int
 4. Apply the fix again
 
 # NB for all the users,please report any issues to the issues section in the github repo,not on my gaming youtube channel under unrelated videos!
+# Work done: updated to Wine Vulkan API 7.15 build,if any issues were present,they are fixed now
 # Credit goes to silentgamepls
 
 
